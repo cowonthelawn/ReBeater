@@ -1,0 +1,60 @@
+{
+    "_version": "2.0.0",
+    "_songName": "Brave",
+    "_songSubName": "",
+    "_songAuthorName": "Sara Bareilles",
+    "_levelAuthorName": "BennyDaBeast",
+    "_beatsPerMinute": 92.5,
+    "_shuffle": 0,
+    "_shufflePeriod": 0.5,
+    "_previewStartTime": 12,
+    "_previewDuration": 10,
+    "_songFilename": "brave.egg",
+    "_coverImageFilename": "cover.jpg",
+    "_environmentName": "NiceEnvironment",
+    "_songTimeOffset": 0,
+    "_customData": {
+        "_contributors": []
+    },
+    "_difficultyBeatmapSets": [{
+            "_beatmapCharacteristicName": "Standard",
+            "_difficultyBeatmaps": [{
+                    "_difficulty": "Expert",
+                    "_difficultyRank": 7,
+                    "_beatmapFilename": "ExpertStandard.dat",
+                    "_noteJumpMovementSpeed": 12,
+                    "_noteJumpStartBeatOffset": 0,
+                    "_customData": {
+                        "_difficultyLabel": "Expert+",
+                        "_editorOffset": 0,
+                        "_editorOldOffset": 0,
+                        "_warnings": [],
+                        "_information": [],
+                        "_suggestions": [],
+                        "_requirements": []
+                    }
+                }
+            ]
+        }, {
+            "_beatmapCharacteristicName": "360Degree",
+            "_difficultyBeatmaps": [{
+                    "_difficulty": "ExpertPlus",
+                    "_difficultyRank": 9,
+                    "_beatmapFilename": "ExpertPlusStandard.dat",
+                    "_noteJumpMovementSpeed": 12,
+                    "_noteJumpStartBeatOffset": 0,
+                    "_customData": {
+                        "_difficultyLabel": "360 Expert+",
+                        "_editorOffset": 0,
+                        "_editorOldOffset": 0,
+                        "_warnings": [],
+                        "_information": [],
+                        "_suggestions": [],
+                        "_requirements": []
+                    }
+                }
+            ]
+        }
+    ],
+	  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}
