@@ -1,0 +1,57 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Still Alive",
+  "_songSubName": "The Theme from Mirror's Edge",
+  "_songAuthorName": "Lisa Miskovsky",
+  "_levelAuthorName": "incertia, FakePope",
+  "_beatsPerMinute": 110,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 45.7,
+  "_previewDuration": 35.5,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "GreenDayEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Bloq",
+        "_name": "incertia",
+        "_iconPath": "55111969_15.jpg"
+      },
+      {
+        "_role": "Eye Candy",
+        "_name": "FakePope",
+        "_iconPath": "fakepope.jpg"
+      }
+    ],
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.8.454"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 16.5,
+          "_noteJumpStartBeatOffset": -0.062,
+          "_customData": {
+            "_difficultyLabel": "Still Alive",
+            "_suggestions": [
+              "Chroma"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
